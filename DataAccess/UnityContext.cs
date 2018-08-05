@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess
 {
-	public class UnityContext : DbContext, IDisposable
+	public class UnityContext : DbContext, IUnityContext
 	{
 		public UnityContext() : base("UnityConnection")
 		{

@@ -13,9 +13,9 @@ namespace WebAPI.Controllers
 
 		private readonly IUserManager _usermanager;
 
-		public UserController(IUserManager _usermanager)
+		public UserController(IUserManager usermanager)
 		{
-
+			_usermanager = usermanager;
 		}
 
 
@@ -28,7 +28,17 @@ namespace WebAPI.Controllers
 		// GET: api/User/5
 		public IHttpActionResult Get(int id)
 		{
-			return Ok();
+			try
+			{
+				if (_usermanager.Read(id) != null)
+					return Ok();
+				else
+					return NotFound();
+			}
+			catch(Exception ex)
+			{
+				return InternalServerError(ex);
+			}
 		}
 
 		// POST: api/User

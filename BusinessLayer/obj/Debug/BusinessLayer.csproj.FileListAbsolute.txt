@@ -1,0 +1,6 @@
+E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\obj\Debug\BusinessLayer.pdb
