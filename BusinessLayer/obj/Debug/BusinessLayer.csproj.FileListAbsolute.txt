@@ -4,3 +4,9 @@ E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\obj\Debug\BusinessLayer.csprojAs
 E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
 E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\obj\Debug\BusinessLayer.dll
 E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\bin\Debug\DataAccess.dll
+E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\bin\Debug\EntityFramework.dll
+E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\bin\Debug\DataAccess.pdb
+E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\bin\Debug\DataAccess.dll.config
+E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\bin\Debug\EntityFramework.xml
+E:\samples\mvc\swaroop\BaseDesign\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete

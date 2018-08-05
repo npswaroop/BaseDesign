@@ -1,4 +1,5 @@
 ﻿using BusinessLayer;
+using DataAccess.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,16 +36,16 @@ namespace WebAPI.Controllers
 				else
 					return NotFound();
 			}
-			catch(Exception ex)
+			catch (Exception ex)
 			{
 				return InternalServerError(ex);
 			}
 		}
 
 		// POST: api/User
-		public IHttpActionResult Post([FromBody]string value)
+		public IHttpActionResult Post(User user)
 		{
-			return Ok();
+			return Ok(_usermanager.Create(user));
 		}
 
 		// PUT: api/User/5
