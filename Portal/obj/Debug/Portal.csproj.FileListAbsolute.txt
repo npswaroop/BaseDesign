@@ -90,3 +90,4 @@ E:\samples\mvc\Unity\Portal\obj\Debug\Portal.csproj.CoreCompileInputs.cache
 E:\samples\mvc\Unity\Portal\obj\Debug\Portal.csproj.CopyComplete
 E:\samples\mvc\Unity\Portal\obj\Debug\Portal.dll
 E:\samples\mvc\Unity\Portal\obj\Debug\Portal.pdb
+E:\samples\mvc\Unity\Portal\obj\Debug\Portal.csprojAssemblyReference.cache
